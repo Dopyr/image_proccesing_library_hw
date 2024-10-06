@@ -1,4 +1,4 @@
-##Image Processing Project
+## Image Processing Project
 This project implements fundamental steps of Digital Image Processing as part of a term project. The application allows users to perform various preprocessing, filtering, and morphological operations on images. It has been developed in [insert programming language here], and users can open an image, process it, and save the result in various formats such as .jpg, .bmp, and .png.
 
 # Features

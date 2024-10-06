@@ -2,26 +2,26 @@
 This project implements fundamental steps of Digital Image Processing as part of a term project. The application allows users to perform various preprocessing, filtering, and morphological operations on images. It has been developed in [insert programming language here], and users can open an image, process it, and save the result in various formats such as .jpg, .bmp, and .png.
 
 ## Features
-1. Image Loading and Saving
+### 1. Image Loading and Saving
 Users can select an image from their computer.
 After processing, the result can be saved in a chosen format: .jpg, .bmp, or .png.
-# 2. Preprocessing Menu 1
+### 2. Preprocessing Menu 1
 Convert a color image to grayscale.
 Convert a grayscale image to black and white (threshold-based).
 Zoom in and out.
 Crop a specific region from the image.
-## 3. Preprocessing Menu 2
+### 3. Preprocessing Menu 2
 Generate a histogram.
 Perform histogram equalization (on grayscale images).
 Quantize the image (with a selected number of tones).
-## 4. Filtering Menu
+### 4. Filtering Menu
 Apply Gaussian blur (customizable with a standard deviation (σ) value).
 Apply sharpening filter.
 Edge detection filter.
 Mean filter.
 Median filter.
 Contra Harmonic Mean filter.
-## 5. Morphological Operations
+### 5. Morphological Operations
 Dilation on black-and-white images.
 Erosion on black-and-white images.
 Skeletonization of black-and-white images.
